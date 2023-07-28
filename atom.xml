@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-27T15:16:21.975Z</updated>
+  <updated>2022-11-26T01:44:53.505Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/07/28/git/"/>
+    <id>http://example.com/2023/07/28/git/</id>
+    <published>2023-07-28T03:28:05.789Z</published>
+    <updated>2022-11-26T01:44:53.505Z</updated>
+    
+    <content type="html"><![CDATA[<p>维护代码、协同开发</p><p>分支概念</p><p>推送代码</p><p>版本维护</p><p>Gitlab、GitLab、Gitee</p><p>Git服务器搭建</p><p>分布式版本控制工具（Linux林纳斯）</p><p>版本控制，各种程序代码、配置文件、说明文档等文件的变更进行管理</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;维护代码、协同开发&lt;/p&gt;
+&lt;p&gt;分支概念&lt;/p&gt;
+&lt;p&gt;推送代码&lt;/p&gt;
+&lt;p&gt;版本维护&lt;/p&gt;
+&lt;p&gt;Gitlab、GitLab、Gitee&lt;/p&gt;
+&lt;p&gt;Git服务器搭建&lt;/p&gt;
+&lt;p&gt;分布式版本控制工具（Linux林纳斯）&lt;/p&gt;
+&lt;p&gt;版本控制，各种程序代码、配置</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
